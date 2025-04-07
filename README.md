@@ -13,3 +13,6 @@
 
 1. Clone this repository or download the `nativeai.lua` file.
 2. Place the `nativeai.lua` file in your Micro plugins directory:
+3. 3. Run the installation script to set up the plugin and configure your API key:
+```bash
+bash install.sh
